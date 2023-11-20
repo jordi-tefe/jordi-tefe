@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: +251910269050 or ig jordi-tefe
 - ⚡ Fun fact: ...
 
-<p align="left"> <a href="https://twitter.com/khalidkhelil" target="blank"><img src="https://img.shields.io/twitter/follow/khalidkhelil?logo=twitter&style=for-the-badge" alt="khalidkhelil" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/jordi_tefe/" target="blank"><img  alt="Jorditefe" /></a> </p>
 
 - 🔭 I’m currently working on my Js And React Native skills
 
