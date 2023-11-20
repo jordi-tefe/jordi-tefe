@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Deploy
 - 💬 Ask me about  React , Java , C++,PHP,MYSQL,SQL,Visual Basic
 - 📫 How to reach me: +251910269050 or ig jordi-tefe
+- - 👨‍💻 All of my projects are available at [[https://github.com/KHALIDKHELIL/khalidkhelil](https://github.com/jordi-tefe)]
 - ⚡ Fun fact: ...
 
 <p align="left"> <a href="https://www.instagram.com/jordi_tefe/" target="blank"><img  alt="Jorditefe" /></a> </p>
